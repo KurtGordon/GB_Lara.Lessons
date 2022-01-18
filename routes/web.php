@@ -25,6 +25,6 @@ Route::get('/wiki_lara', function () {
     return "Laravel — бесплатный веб-фреймворк с открытым кодом, предназначенный для разработки с использованием архитектурной модели MVC";
 });
 
-Route::get('/wiki_PStorm', function () {
+Route::get('/wiki_PhpStorm', function () {
     return "PhpStorm — коммерческая кросс-платформенная интегрированная среда разработки для PHP";
 });
